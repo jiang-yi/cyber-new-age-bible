@@ -1,0 +1,32 @@
+// Scripture-friendly typography
+.main-content {
+  font-size: 1.1rem !important;
+  line-height: 1.85 !important;
+
+  h2 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h3 {
+    margin-top: 2rem;
+  }
+
+  // Verse-style paragraphs
+  p {
+    margin-bottom: 1rem;
+  }
+
+  // Tables in translation index
+  table {
+    font-size: 1rem;
+  }
+}
+
+// Wider content area for long scripture text
+@media (min-width: 66.5rem) {
+  .main-content {
+    max-width: 55rem;
+  }
+}
