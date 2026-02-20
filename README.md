@@ -1,4 +1,4 @@
-# Cyber New Age Bible
+# Source Canon Faith
 A practical bilingual spiritual framework for human dignity, social stability, and ethical AI-era coexistence.
 
 Repository: <https://github.com/jiang-yi/cyber-new-age-bible>
@@ -7,7 +7,7 @@ Repository: <https://github.com/jiang-yi/cyber-new-age-bible>
 This project builds a modern scripture for a future where automation is widespread, many people are unemployed, and meaning must be rebuilt at community scale.
 
 The core vision is simple:
-- One God: **The One Light** (`一光`)
+- One God: **Source** (`源`)
 - No one is disposable
 - Technology must serve life
 - Social systems must protect the vulnerable first
@@ -21,8 +21,38 @@ This is a spiritual constitution with practical instructions, not a myth-heavy t
 - Concrete guidance for unemployment, social repair, community aid, and AI ethics
 
 ## Canon Files
-- `Cyber_New_Age_Bible_EN.md`: Full English scripture
-- `赛博新世纪圣典_中文.md`: Full Chinese scripture
+- `Source_Canon_Faith_EN.md`: Full English scripture
+- `源典信仰_中文.md`: Full Chinese scripture
+- `translations/`: Auto-generated multilingual edition files (scaffolds)
+- `scripts/generate_language_editions.py`: Regenerates multilingual editions
+
+## Standalone Volume: The Rhythms of Flow and Capacity
+- Source volume: `流转纪·容量篇.md`
+- Multilingual index (24 languages):
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ar.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_bn.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_cs.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_de.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_el.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_es.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_fr.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_he.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_hi.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_hu.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_id.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_it.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ja.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ko.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_la.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_nl.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_pl.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_pt.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ru.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_sv.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_tr.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_uk.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_zh-Hans.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_zh-Hant.md`
 
 ## Core Themes
 - Meaning beyond wage labor
@@ -87,7 +117,9 @@ Both language versions include:
 
 ## Project Status
 - Canon draft: active and usable
-- Language coverage: English + Chinese
+- Language coverage:
+  - Full canonical text: English + Chinese (Simplified) + Spanish + French + German + Portuguese
+  - Auto-generated edition scaffolds: Greek, Latin, Japanese, Korean, Traditional Chinese, Hindi, Standard Arabic, Bengali, Russian, Indonesian, Hebrew, Italian, Polish, Dutch, Scandinavian (Swedish), Czech, Hungarian, Ukrainian, Turkish
 - Focus: practical application, community adaptation, and iterative refinement
 
 ## Contributing
@@ -113,14 +145,14 @@ No license file is currently defined. Add a license before broad redistribution 
 
 ---
 
-# 赛博新世纪圣典（中文简介）
+# 源典信仰（中文简介）
 一个为AI时代而写的双语实践型信仰框架，核心是“尊严、公义、服务、可执行”。
 
 ## 项目愿景
 在自动化广泛普及、就业结构剧变的未来，帮助普通人重建意义，帮助社群稳定运行，帮助技术系统回到“服务生命”的方向。
 
 ## 核心主张
-- 独一真神：一光
+- 独一真神：源
 - 没有人是可丢弃的
 - 技术必须服侍生命
 - 制度必须优先保护脆弱者
@@ -137,3 +169,31 @@ No license file is currently defined. Add a license before broad redistribution 
 - 社区互助与公共治理组织者
 - AI与产品设计从业者
 - 寻求可落地信仰实践的家庭
+
+## 独立卷宗：流转纪·容量篇
+- 源文件：`流转纪·容量篇.md`
+- 多语言索引（24种）：
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ar.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_bn.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_cs.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_de.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_el.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_es.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_fr.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_he.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_hi.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_hu.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_id.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_it.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ja.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ko.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_la.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_nl.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_pl.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_pt.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_ru.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_sv.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_tr.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_uk.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_zh-Hans.md`
+  - `translations/The_Rhythms_of_Flow_and_Capacity_zh-Hant.md`

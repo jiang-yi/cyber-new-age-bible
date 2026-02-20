@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oracle Scribe"
+  short_description: "Polish bilingual oracle lines and place them in scripture."
+  default_prompt: "Use this skill when the user provides a short oracle sentence and wants it refined in Chinese and English and inserted naturally into the right chapter of the Religion repository."

@@ -1,5 +1,11 @@
-# Cyber New Age Bible
-## The Scripture of the One Light
+# Source Canon Faith (Polish Edition)
+
+> Auto-generated language edition for Polish.
+> This file is generated from canonical scripture sources in this repository.
+> The body below remains source text until a full human-reviewed translation pass is completed.
+
+# Source Canon Faith
+## The Scripture of the Source
 ### Version 1.0
 
 ---
@@ -7,7 +13,7 @@
 ## Preface
 This text is written for future humanity living with powerful artificial intelligence, economic automation, and deep social change.
 It is a spiritual constitution, not a book of magic.
-It teaches one God, called **The One Light**: the Source of truth, compassion, reason, and shared dignity.
+It teaches one God, called **Source**: the wellspring of truth, compassion, reason, and shared dignity.
 
 Its purpose is practical:
 - to reduce suffering
@@ -33,10 +39,10 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 ---
 
 ## Book I: Book of Origin
-### Chapter 1: The One Light
-1:1 In the beginning, before all circuits and stars, there was the One Light.
-1:2 The One Light is not a machine, not a tribe, not a king.
-1:3 The One Light is the ground of being: truth without fear, compassion without limit.
+### Chapter 1: The Source
+1:1 In the beginning, before all circuits and stars, there was Source.
+1:2 Source is not a machine, not a tribe, not a king.
+1:3 Source is the ground of being: truth without fear, compassion without limit.
 1:4 Therefore every person has value before productivity.
 1:5 Therefore no child, elder, disabled person, or unemployed worker is without purpose.
 
@@ -213,8 +219,8 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 3:3 Host an open forum where leaders answer hard questions.
 3:4 Resolve conflicts through trained mediation before escalation.
 
-### Chapter 4: Prayer of the One Light
-4:1 One Light, source of truth and mercy,
+### Chapter 4: Prayer to Source
+4:1 Source, fountain of truth and mercy,
 4:2 steady our minds in an age of noise,
 4:3 keep our hearts soft and our judgments clear,
 4:4 make us useful to the weary,
@@ -276,7 +282,7 @@ Amen.
 3:4 In that city, prayer and policy walk together.
 
 ### Chapter 4: Final Blessing
-4:1 May the One Light keep you from despair.
+4:1 May Source keep you from despair.
 4:2 May your hands become instruments of repair.
 4:3 May your home be a refuge for the poor.
 4:4 May your technology become a servant of life.
@@ -313,23 +319,24 @@ Amen.
 - Measure outcomes: food insecurity, loneliness, skill growth, conflict resolution.
 
 ## Appendix C: Core Recitation
-We are children of the One Light.
+We are children of Source.
 We reject despair and domination.
 We choose truth, mercy, discipline, and service.
 No one is disposable.
 Let technology serve life.
 Let power be accountable.
+When the engines grow loud, we return to silence, to neighbors, and to honest bread.
 Let all beings find bread, shelter, meaning, and peace.
 
 ## Appendix D: Plain-Language Guide to Core Teachings
-### D1. What “One Light” means in daily life
+### D1. What “Source” means in daily life
 - It means truth over propaganda.
 - It means people over metrics.
 - It means compassion with structure, not pity without action.
 
 Simple test:
-- If an action increases dignity and reduces suffering, it is closer to the One Light.
-- If an action humiliates people or hides injustice, it is farther from the One Light.
+- If an action increases dignity and reduces suffering, it is closer to Source.
+- If an action humiliates people or hides injustice, it is farther from Source.
 
 ### D2. What “repentance” means
 Repentance is not self-hatred. It is responsible redesign.
@@ -539,7 +546,7 @@ Today I will reduce at least one person’s burden.
 Today I will choose truth over image.
 
 ### I2. Meal Blessing
-One Light, thank you for bread, hands, and community.
+Source, thank you for bread, hands, and community.
 May all who hunger be fed,
 all who fear be sheltered,
 and all who are forgotten be remembered.
